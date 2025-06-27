@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: white;
   color: blue;
   font-family: "Trebuchet MS", "Comic Sans MS", cursive;
   margin: 0;
@@ -7,7 +7,7 @@ body {
 
 header {
   font-size: 60px;
-  border-bottom: double 5px whitesmoke;
+  border-bottom: double 5px purple;
   padding: 6px;
   text-align: center;
 }
